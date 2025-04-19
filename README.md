@@ -20,6 +20,7 @@ To implement, visualize, and evaluate classic machine learning algorithms includ
   - Visualization of decision boundary
   - **Discussion**: Limitations of perceptron in high-dimensional data spaces
 
+MNIST DATASET: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 ---
 
 ### 2. Backpropagation on a Multilayer Neural Network
@@ -34,6 +35,7 @@ To implement, visualize, and evaluate classic machine learning algorithms includ
   - Training time analysis
   - Loss curve plots
 
+CIFAT-10 DATASET: https://www.kaggle.com/datasets/krishnaharjai/cifar-10
 ---
 
 ### 3. Naive Bayes Classifier
@@ -47,6 +49,7 @@ To implement, visualize, and evaluate classic machine learning algorithms includ
     - Confusion matrix for frequently confused categories
     - Accuracy per class
 
+20 NEWSGROUPS DATASET:  https://www.kaggle.com/datasets/snap/20-newsgroups
 ---
 
 ## 🧰 Libraries Used
