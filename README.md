@@ -4,7 +4,7 @@ This mini-project explores the foundational machine learning algorithms by imple
 
 ## 🔍 Objective
 
-To implement, visualize, and evaluate classic machine learning algorithms including the Perceptron, Backpropagation for neural networks, Naive Bayes classifier, PCA, and Hierarchical Clustering using real datasets like MNIST, CIFAR-10, 20 Newsgroups, Fashion-MNIST, and Breast Cancer.
+To implement, visualize, and evaluate classic machine learning algorithms including the Perceptron, Backpropagation for neural networks, Naive Bayes classifier using real datasets like MNIST, CIFAR-10, 20 Newsgroups, Fashion-MNIST, and Breast Cancer.
 
 ---
 
@@ -46,34 +46,6 @@ To implement, visualize, and evaluate classic machine learning algorithms includ
   - **Analysis**:
     - Confusion matrix for frequently confused categories
     - Accuracy per class
-
----
-
-### 4. Principal Component Analysis (PCA)
-- **Dataset**: Fashion-MNIST
-- **Goal**: Dimensionality reduction and image reconstruction using PCA
-- **Tasks**:
-  - Reduce to 2 principal components
-  - Visualize cluster separation in 2D space
-  - Reconstruct images from reduced dimensions
-  - **Evaluation**:
-    - Class separability in 2D
-    - Reconstruction error vs number of components
-    - Explained variance ratio plot
-
----
-
-### 5. Hierarchical Clustering (Agglomerative and Divisive)
-- **Dataset**: Breast Cancer
-- **Goal**: Cluster the dataset using hierarchical clustering
-- **Techniques**:
-  - Agglomerative and divisive clustering
-  - Various linkage methods: single, complete, average
-  - Visualization via dendrogram and PCA projection
-- **Evaluation**:
-  - Silhouette scores for cluster quality
-  - Comparison of clustering effectiveness
-  - Insights on inter-cluster distances and structure
 
 ---
 
